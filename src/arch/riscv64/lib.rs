@@ -1,0 +1,1 @@
+#![feature(llvm_asm)]
